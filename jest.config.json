@@ -1,0 +1,17 @@
+{
+  "collectCoverageFrom": [
+    "./src/**/*.ts"
+  ],
+  "transform": {
+    "^.+\\.(t|j)sx?$": "ts-jest"
+  },
+  "testMatch": [ "**/*.spec.ts" ],
+  "moduleFileExtensions": [
+    "ts",
+    "tsx",
+    "js",
+    "jsx",
+    "json",
+    "node"
+  ]
+}

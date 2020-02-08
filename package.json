@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/jest": "^24.0.2",
+    "jest": "^24.0.2",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "test": "jest --config jest.config.json"
+  }
+}
